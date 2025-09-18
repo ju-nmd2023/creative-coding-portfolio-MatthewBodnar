@@ -1,7 +1,19 @@
 [
   {
-    "file": "experiments/example.js",
-    "name": "Name of your experiment",
-    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+    "file": "experiments/compwithlines.js",
+    "name": "Composition with Lines by Piet Mondrian (1917) Original",
+    "description": "Recreating the reactangle formed circle."
+  },
+
+  {
+    "file": "experiments/compwithlines2.1.js",
+    "name": "Composition with Lines by Piet Mondrian (1917) V2.1",
+    "description": "Making the rectangles random color."
+  },
+
+  {
+    "file": "experiments/compwithlines2.2.js",
+    "name": "Composition with Lines by Piet Mondrian (1917) V2.2",
+    "description": "Making the rectangles random color and no loop, making the reactangles fill the circle."
   }
 ]
