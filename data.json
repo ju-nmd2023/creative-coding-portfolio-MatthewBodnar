@@ -15,5 +15,18 @@
     "file": "experiments/compwithlines2.2.js",
     "name": "Composition with Lines by Piet Mondrian (1917) V2.2",
     "description": "Making the rectangles random color and no loop, making the reactangles fill the circle."
+  },
+
+  {
+    "file": "experiments/binarytree1.0.js",
+    "name": "Binary Tree V1.0",
+    "description": "Lines like tree branches separate from each other."
+  },
+
+  {
+    "file": "experiments/flowfield1.2.js",
+    "name": "Flowfield V1.2",
+    "description": "Making the lines colorful and thicker"
   }
+
 ]
