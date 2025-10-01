@@ -1,7 +1,7 @@
 [
   {
     "file": "experiments/compwithlines.js",
-    "name": "Composition with Lines by Piet Mondrian (1917) Original",
+    "name": "Composition with Lines by Piet Mondrian (1917) V1.0",
     "description": "Recreating the reactangle formed circle."
   },
 
@@ -18,15 +18,33 @@
   },
 
   {
+    "file": "experiments/flowfield1.2.js",
+    "name": "Flowfield V1.2",
+    "description": "Colorful lines flowing."
+  },
+
+  {
     "file": "experiments/binarytree1.0.js",
     "name": "Binary Tree V1.0",
     "description": "Lines like tree branches separate from each other."
   },
 
   {
-    "file": "experiments/flowfield1.2.js",
-    "name": "Flowfield V1.2",
-    "description": "Making the lines colorful and thicker"
+    "file": "experiments/binarytree2.0.js",
+    "name": "Binary Tree V2.0",
+    "description": "Lines like tree branches separate from each other, one by one."
+  },
+
+  {
+    "file": "experiments/binarytree3.0.js",
+    "name": "Binary Tree V3.0",
+    "description": "Lines like tree branches separate from each other, in a flowing animation."
+  },
+
+  {
+    "file": "experiments/binarytree4.0.js",
+    "name": "Binary Tree V4.0",
+    "description": "Lines like tree branches separate from each other, in a flowing animation with sound."
   }
 
 ]
